@@ -1,7 +1,7 @@
 # NOTE
-This project is a copy of another repository. The original one can be reached from https://github.com/carlosazaustre/reto-starwars-mouredev. The author is Carlos Azaustre who recorded a video explaining it https://youtu.be/2Lmz87uYBsw , based on Reto de Programación mensual de MoureDev: https://github.com/mouredev/Monthly-App-Challenge-2022#febrero-030222 
-
 This repository was created only for study purpose and practice myself in order to improve my React skills.
+
+This project is a copy of another repository. The original one can be reached from https://github.com/carlosazaustre/reto-starwars-mouredev. The author is Carlos Azaustre who recorded a video explaining it https://youtu.be/2Lmz87uYBsw , based on Reto de Programación mensual de MoureDev: https://github.com/mouredev/Monthly-App-Challenge-2022#febrero-030222 
 
 # Getting Started with Create React App
 
